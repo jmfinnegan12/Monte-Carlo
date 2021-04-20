@@ -2,8 +2,10 @@
 
 ## Project Goals
 - Practice Object Oriented Programming in python
-- Run statistical simulation
+- Run statistical simulation  
+![](./Photos/Single%20Black%20Dist.PNG)  
 - Test "gambler's fallacy"  
+![](./Photos/GamblersFallacy%20Dist.PNG)  
 <br/><br/>
 [full jupyter notebook](https://github.com/jmfinnegan12/Monte-Carlo/blob/main/Roulette.ipynb)
 <br/><br/>
